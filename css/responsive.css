@@ -1,0 +1,1096 @@
+@media( max-width : 585px ) {
+	.welcome_text form{
+		display: none;
+	}
+	.features{
+		text-align: center;
+	}
+	.meet-thumb img{
+		min-height: 300px;
+		max-height: 300px;
+		width: 100%;
+	}
+	.leftmsgs{
+		display: none;
+	}
+	.grimps{
+    display: block;
+}
+	.well.msg_conten {
+	    background: transparent;
+	    /* max-height: 563px; */
+	    /* height: 500px; */
+	    overflow-y: scroll;
+	    border-radius: 1px;
+	    position: fixed;
+	    width: 99%;
+	    max-height: 79%;
+	    height: 79%;
+	    border: none;
+	    background-size: cover;
+	    box-shadow: none;
+	}
+	.well.messages-out {
+	    margin-left: 9%;
+	    width: 90%;
+	    padding: 10px;
+	    /* padding-bottom: 10%; */
+	    /* float: right; */
+	    border: none;
+	     clip-path: none; 
+	    background: #B9F38A;
+	}
+	.mobl-bg {
+	    background: url(../img/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png);
+	    position: absolute;
+	    top: 0%;
+	        left: .1%;
+	    background-size: cover;
+	    width: 100%;
+	    background-position: top;
+	    height: 100%;
+	    z-index: -1;
+	}
+	.expanded-butt {
+	    display: block;
+	    /* margin-top: 26px; */
+	   padding: 17px !important;
+	    margin-left: 70%;
+	    /* padding: 17px !important; */
+	}
+	 .collert1{
+            display: block;
+        }
+        .collert{
+            display: none;
+        }
+	.mobil-serv{
+		display: none;
+	}
+	.mobile-serv-1 {
+	    margin-left: 63%;
+	    display: block;
+	}
+	.expanded-but1t {
+	    padding: 5px;
+	     display: block;
+	    margin-top: 10px !important;
+	}
+	 
+	.actbut{
+		display: none;
+	}
+	.well.messages-in {
+	    /* position: absolute; */
+	    width: 86%;
+	    padding: 11px;
+	    border: none;
+	}
+	.well.bcktopversion i {
+	    padding: 5px;
+	    cursor: pointer;
+	    margin-top: 5%;
+	}
+	.well.send-msgcontent input {
+	    border-radius: 50px;
+	}
+	.imic{
+		padding: 3px;
+		border-radius: 50%;
+		color: white;
+		background-color:#3e97e4;
+	}
+	.well.send-msgcontent {
+		    position: fixed;
+		    bottom: -3%;
+		    background:transparent;
+		    border: none;
+		    width: 100%;
+		    border-radius: 1px;
+		}
+		.well.bcktopversion {
+		    padding: 6px;
+		    border-radius: 1px;
+		    background: #3e97e4;
+		    box-shadow: none;
+		    color: white;
+		    border: none;
+		    margin-bottom: 0%;
+		}
+		.well.frends-well {
+		    overflow-y: scroll;
+		    /* max-height: 510px; */
+		    position: fixed;
+		    height: 80%;
+		    width: 99%;
+		    border-radius: 1px;
+		    border: none;
+		    box-shadow: 0 2px 15px rgba(0,0,0,0.20);
+		    background: white;
+		}
+		.messg {
+		    position: fixed;
+		    bottom: 3%;
+		    right: 6%;
+		    z-index: 1;
+		    padding: 15px !important;
+		    box-shadow: 0px 2px 15px rgba(0,0,0,0.23);
+		    background-color: #3e97e4;
+		    border-radius: 50%;
+		    color: white;
+		    display: block;
+		}
+		.topversion h4 {
+		    font-weight: 900;
+		    padding: 6px;
+		    color: white;
+		}
+		.well.tabs-messages {
+		    background: rgba(0,0,0,0.19);
+		    padding: 0px 17px;
+   			 padding-top: 1%;
+		    margin-bottom: 0%;
+		    border: none;
+		    border-radius: 1px;
+		    margin-top: 3%;
+		    font-weight: 900;
+		    display: block;
+		    /* position: absolute; */
+		    /* width: 100%; */
+		    /* left: 0%; */
+		}
+		.well.tabs-messages p {
+		    margin: -1px;
+		    border-bottom: 5px solid transparent;
+		    padding-bottom: 7px;
+		}
+		.tabs-messages-active{
+			border-bottom: 5px solid #FFf !important;
+		}
+		.topversion {
+		    background-color: #3e97e4 !important;
+		    color: white;
+		    padding: 0px !important;
+    		padding-top: 6px !important;
+		    box-shadow: 0px 10px 15px rgba(0,0,0,0.23) !important;
+		}
+		/* .well.send-msgcontent i {
+		    padding: 3px;
+		    color: white;
+		}
+			.features img{
+		margin-left: 40%;
+			}
+			.mobile-btn{
+		animation-delay: 2s;
+		margin-top: 4.5%;
+		padding: 9px 48px;
+		display: block;
+			}
+			.welcome_text h1{
+		color: white;
+		animation-delay: 1s;
+		font-size: 2em;
+			}
+			.welcome_text{
+		padding-top: 4%;
+			}
+			.main {
+		background-size: cover;
+		background-position: inherit;
+		background-attachment: inherit;
+			}
+			.unshown{
+		display: none;
+			}
+			.diffrent{
+		text-align: center !important;
+			}
+			.diffrent p{
+		text-align: center !important;	
+			}
+			.diffrent hr{
+		margin-left: 50%;
+			}		
+		
+			.float-img {
+			    position: absolute;
+			    left: inherit; 
+			    top: inherit; 
+			    max-width: 110px;
+			    height: 110px;
+			    border-radius: 50%;
+			    border: 4px solid white;
+			    background-color: transparent;
+			}
+		
+			.client-show{
+		display: block;
+		padding: 9px 45px !important;
+			}
+			.client-unshow{
+		display: none;
+			}
+		
+			prifile page
+			.sidenav {
+			    height: 100%;
+			    width: 0%;
+			    margin-top: 4%;
+			    position: fixed;
+			    z-index: 1;
+			    top: 0;
+			    left: 0;
+			    background-color: rgba(0, 0, 0, 0.89) !important;
+			    box-shadow: 0 2px 15px rgba(0,0,0,0.65);
+			    overflow: hidden !important;
+			    transition: 0.5s;
+			    padding-top: 15%;
+			}
+			#profile-view {
+			    display: inline-block;
+			    font-size: 15px;
+			    padding-right: 10px !important;
+			}
+			.navbar-brand {
+			    float: left;
+			    height: 50px;
+			    padding: 7px 15px;
+			    font-size: 18px;
+			    line-height: 20px;
+			}
+			.sidenav .closebtn {
+			    position: absolute;
+			    color: white;
+			    top: 4%;
+			    right: 25px;
+			    font-size: 36px;
+			    display: inline-block;
+			    margin-left: 50px;
+			}
+			#myBtn404 {
+			    position: fixed;
+			    bottom: 20px;
+			    right: 30px;
+			    z-index: 99;
+			    border: none;
+			    display: ;
+			    outline: none;
+			    background: #3e97e4;
+			    color: white;
+			    cursor: pointer;
+			    padding: 18px;
+			    transition: all .3s ease;
+			    border-radius: 50%;
+			    font-size: 10px !important;
+			    animation-name: none;
+			    animation: none;
+			    animation-duration: none;
+			    animation-iteration-count: none;
+			    animation-direction: 0;
+			}
+			#form-search{
+		display: none;
+			}
+			.mobile-btn{
+		display: block;
+			}
+			.artisanwelcome_text h1{
+		color: white;
+		padding-bottom: 1%;
+		animation-delay: 1s;
+		font-size: 2.2em;
+			}
+			.timeline-well button:hover {
+			    background-color:transparent !important;
+			    border-left: 2px solid transparent !important;
+			}
+			.timeline_sidebtn_active {
+			     background-color: transparent !important; 
+			    border-left: 2px solid transparent !important;
+			}
+			.client-card {
+			    background: #3e97e4;
+			    padding: 40px;
+			    width: 272px;
+			    height: 300px;
+			    box-shadow: 0 2px 15px rgba(0,0,0,0.45);
+			    color: white;
+			    padding-top: 12%;
+			    margin-bottom: 3%;
+			    border-radius: 1px;
+			    border: 2px solid #3e97e4;
+			    border: 2px solid #3e97e4;
+			    transition: all 1s ease;
+			    text-decoration: none !important;
+			}
+			#myBtn {
+			    position: fixed;
+			    bottom: 20px;
+			    right: 30px;
+			    z-index: 99;
+			    border: none;
+			    display: none;
+			    visibility: hidden !important;
+			    outline: none;
+			    background: #3e97e4;
+			    color: white;
+			    cursor: pointer;
+			    padding: 15px;
+			    box-shadow: 0 2px 15px rgba(0,0,0,0.65);
+			    border-radius: 50%;
+			    font-size: 10px !important;
+			}
+			#myBtn001 {
+			    position: fixed;
+			    bottom: 20px;
+			    right: 30px;
+			    z-index: 99;
+			    border: none;
+			    display: block;
+			    visibility: visible !important;
+			    outline: none;
+			    background: #3e97e4;
+			    color: white;
+			    cursor: pointer;
+			    padding: 15px;
+			    box-shadow: 0 2px 15px rgba(0,0,0,0.65);
+			    border-radius: 50%;
+			    font-size: 10px !important;
+			} */
+			.well.bcktopversion i {
+			    padding: 8px;
+			    cursor: pointer;
+			    font-size: 17px;
+			    /* background: #2196F3; */
+			    color: #ffff;
+			    margin-right: 2%;
+			    /* float: right; */
+			    margin-top: 12px;
+			    border-radius: 50%;
+			     box-shadow: none !important; 
+			    /* box-shadow: 0 2px 15px rgba(0,0,0,0.23); */
+			}
+
+}
+@media( max-width : 989px ) {
+	.welcome_text form{
+		display: none;
+	}
+	.leftmsgs{
+		display: none;
+	}
+		.grimps{
+    display: block;
+}
+.well.bcktopversion i {
+			    padding: 8px;
+			    cursor: pointer;
+			    font-size: 17px;
+			    /* background: #2196F3; */
+			    color: #ffff;
+			    margin-right: 2%;
+			    /* float: right; */
+			    margin-top: 12px;
+			    border-radius: 50%;
+			     box-shadow: none !important; 
+			}
+	 .collert1{
+            display: block;
+        }
+        .collert{
+            display: none;
+        }
+	.well.msg_conten {
+	    background: transparent;
+	    /* max-height: 563px; */
+	    /* height: 500px; */
+	    overflow-y: scroll;
+	    border-radius: 1px;
+	    position: fixed;
+	    width: 99%;
+	    max-height: 79%;
+	    height: 79%;
+	    border: none;
+	    background-size: cover;
+	    box-shadow: none;
+	}
+	.well.messages-out {
+	    margin-left: 9%;
+	    width: 90%;
+	    padding: 10px;
+	    /* padding-bottom: 10%; */
+	    /* float: right; */
+	    border: none;
+	     clip-path: none; 
+	    background: #B9F38A;
+	}
+	.mobl-bg {
+	     background: url(../img/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png);
+	    position: absolute;
+	    top: 0%;
+	        left: .1%;
+	    background-size: cover;
+	    width: 100%;
+	    background-position: top;
+	    height: 100%;
+	    z-index: -1;
+	}
+	.expanded-butt {
+	    display: block;
+	    /* margin-top: 26px; */
+	   padding: 17px !important;
+	   margin-left: 70%;
+	    /* padding: 17px !important; */
+	}
+	.mobil-serv{
+		display: none;
+	}
+	.mobile-serv-1 {
+	    margin-left: 63%;
+	    display: block;
+	}
+	.expanded-but1t {
+	    padding: 5px;
+	     display: block;
+	    margin-top: 10px !important;
+	}
+	 
+	.actbut{
+		display: none;
+	}
+	.well.messages-in {
+	    /* position: absolute; */
+	    width: 86%;
+	    padding: 11px;
+	    border: none;
+	}
+	.well.bcktopversion i {
+	    padding: 5px;
+	    cursor: pointer;
+	    margin-top: 5%;
+	}
+	.well.send-msgcontent input {
+	    border-radius: 50px;
+	}
+	.imic{
+		padding: 3px;
+		border-radius: 50%;
+		color: white;
+		background-color:#3e97e4;
+	}
+	.well.send-msgcontent {
+		    position: fixed;
+		    bottom: -3%;
+		    background:transparent;
+		    border: none;
+		    width: 100%;
+		    border-radius: 1px;
+		}
+		.well.bcktopversion {
+		    padding: 6px;
+		    border-radius: 1px;
+		    background: #3e97e4;
+		    box-shadow: none;
+		    color: white;
+		    border: none;
+		    margin-bottom: 0%;
+		}
+		.well.frends-well {
+		    overflow-y: scroll;
+		    /* max-height: 510px; */
+		    position: fixed;
+		    height: 80%;
+		    width: 99%;
+		    border-radius: 1px;
+		    border: none;
+		    box-shadow: 0 2px 15px rgba(0,0,0,0.20);
+		    background: white;
+		}
+		.messg {
+		    position: fixed;
+		    bottom: 3%;
+		    right: 6%;
+		    z-index: 1;
+		    padding: 15px !important;
+		    box-shadow: 0px 2px 15px rgba(0,0,0,0.23);
+		    background-color: #3e97e4;
+		    border-radius: 50%;
+		    color: white;
+		    display: block;
+		}
+		.topversion h4 {
+		    font-weight: 900;
+		    padding: 6px;
+		    color: white;
+		}
+		.well.tabs-messages {
+		    background: rgba(0,0,0,0.19);
+		     padding: 0px 17px;
+   			 padding-top: 1%;
+		    margin-bottom: 0%;
+		    border: none;
+		    border-radius: 1px;
+		    margin-top: 3%;
+		    font-weight: 900;
+		    display: block;
+		    /* position: absolute; */
+		    /* width: 100%; */
+		    /* left: 0%; */
+		}
+		.well.tabs-messages p {
+		    margin: -1px;
+		    border-bottom: 5px solid transparent;
+		    padding-bottom: 7px;
+		}
+		.tabs-messages-active{
+			border-bottom: 5px  solid #FFC107;
+		}
+		.topversion {
+		    background-color: #3e97e4 !important;
+		    color: white;
+		    padding: 0px !important;
+    		padding-top: 6px !important;
+		    box-shadow: 0px 10px 15px rgba(0,0,0,0.23) !important;
+		}
+		.well.send-msgcontent i {
+		    padding: 5px;
+		    color: white;
+		}
+	.client-card {
+	    background: #3e97e4;
+	    padding: 40px;
+	    width: 272px;
+	    height: 300px;
+	    box-shadow: 0 2px 15px rgba(0,0,0,0.45);
+	    color: white;
+	    padding-top: 12%;
+	    margin-bottom: 3%;
+	    border-radius: 1px;
+	    /* border: 2px solid #3e97e4; */
+	    border: 2px solid #3e97e4;
+	    transition: all 1s ease;
+	    text-decoration: none !important;
+	}
+	#myBtn {
+	    position: fixed;
+	    bottom: 20px;
+	    right: 30px;
+	    z-index: 99;
+	    border: none;
+	    display: none;
+	    visibility: hidden !important;
+	    outline: none;
+	    background: #3e97e4;
+	    color: white;
+	    cursor: pointer;
+	    padding: 15px;
+	    box-shadow: 0 2px 15px rgba(0,0,0,0.65);
+	    border-radius: 50%;
+	    font-size: 10px !important;
+	}
+	#myBtn001 {
+	    position: fixed;
+	    bottom: 20px;
+	    right: 30px;
+	    z-index: 99;
+	    border: none;
+	    display: block;
+	    visibility: visible !important;
+	    outline: none;
+	    background: #3e97e4;
+	    color: white;
+	    cursor: pointer;
+	    padding: 15px;
+	    box-shadow: 0 2px 15px rgba(0,0,0,0.65);
+	    border-radius: 50%;
+	    font-size: 10px !important;
+	}
+	.mobile-btn{
+		animation-delay: 2s;
+		margin-top: 4.5%;
+		padding: 9px 48px;
+		display: block;
+	}
+	.features img{
+		margin-left: 40%;
+	}
+	.features{
+		text-align: center;
+	}
+	.welcome_text h1{
+		color: white;
+
+		animation-delay: 1s;
+		font-size: 2em;
+	}
+	.float-img {
+	    position: absolute;
+	    left: inherit; 
+	    top: inherit; 
+	    max-width: 110px;
+	    height: 110px;
+	    border-radius: 50%;
+	    border: 4px solid white;
+	    background-color: transparent;
+	}
+
+	.unshown{
+		display: none;
+	}
+	.welcome_text{
+		padding-top: 4%;
+	}
+	.main {
+		background-size: cover;
+		background-position: inherit;
+		background-attachment: inherit;
+	}
+	.meet-thumb img{
+		min-height: 300px;
+		max-height: 300px;
+		width: 100%;
+	}
+	.diffrent{
+		text-align: center !important;
+	}
+	.diffrent p{
+		text-align: center !important;	
+	}
+	.diffrent hr{
+		margin-left: 50%;
+	}
+	/*prifile page*/
+	.sidenav {
+	    height: 100%;
+	    width: 0%;
+	    margin-top: 4%;
+	    position: fixed;
+	    z-index: 1;
+	    top: 0;
+	    left: 0;
+	    background-color: rgba(0, 0, 0, 0.89) !important;
+	    box-shadow: 0 2px 15px rgba(0,0,0,0.65);
+	    overflow: hidden !important;
+	    transition: 0.5s;
+	    padding-top: 15%;
+	}
+	#profile-view {
+	    display: inline-block;
+	    font-size: 15px;
+	    padding-right: 10px !important;
+	}
+	.navbar-brand {
+	    float: left;
+	    height: 50px;
+	    padding: 7px 15px;
+	    font-size: 18px;
+	    line-height: 20px;
+	}
+	.sidenav .closebtn {
+	    position: absolute;
+	    color: white;
+	    top: 4%;
+	    right: 25px;
+	    font-size: 36px;
+	    display: inline-block;
+	    margin-left: 50px;
+	}
+	#myBtn404 {
+	    position: fixed;
+	    bottom: 20px;
+	    right: 30px;
+	    z-index: 99;
+	    border: none;
+	    display: ;
+	    outline: none;
+	    background: #3e97e4;
+	    color: white;
+	    cursor: pointer;
+	    padding: 18px;
+	    transition: all .3s ease;
+	    border-radius: 50%;
+	    font-size: 10px !important;
+	    animation-name: none;
+	    animation: none;
+	    animation-duration: none;
+	    animation-iteration-count: none;
+	    animation-direction: 0;
+	}
+	#form-search{
+		display: none;
+	}
+	.mobile-btn{
+		display: block;
+	}
+	.timeline-well button:hover {
+	    background-color:transparent !important;
+	    border-left: 2px solid transparent !important;
+	}
+	.timeline_sidebtn_active {
+	     background-color: transparent !important; 
+	    border-left: 2px solid transparent !important;
+	}
+	.client-show{
+		display: block;
+		padding: 9px 45px !important;
+	}
+	.client-unshow{
+		display: none;
+	}
+	
+}
+@media( max-width : 220px ){
+	.mobile-btn{
+		animation-delay: 2s;
+		margin-top: 4.5%;
+		padding: 9px 18px;
+		display: block;
+	}
+	.diffrent hr{
+		margin-left: 50%;
+	}
+	.features img{
+		margin-left: 40%;
+	}
+	.leftmsgs{
+		display: none;
+	}
+	.well.msg_conten {
+	    background: transparent;
+	    /* max-height: 563px; */
+	    /* height: 500px; */
+	    overflow-y: scroll;
+	    border-radius: 1px;
+	    position: fixed;
+	    width: 99%;
+	    max-height: 79%;
+	    height: 79%;
+	    border: none;
+	    background-size: cover;
+	    box-shadow: none;
+	}
+	.well.messages-out {
+	    margin-left: 9%;
+	    width: 90%;
+	    padding: 10px;
+	    /* padding-bottom: 10%; */
+	    /* float: right; */
+	    border: none;
+	     clip-path: none; 
+	    background: #B9F38A;
+	}
+	.mobl-bg {
+	     background: url(../img/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png);
+	    position: absolute;
+	    top: 0%;
+	        left: .1%;
+	    background-size: cover;
+	    width: 100%;
+	    background-position: top;
+	    height: 100%;
+	    z-index: -1;
+	}
+	.expanded-butt {
+	    display: block;
+	    /* margin-top: 26px; */
+	    padding: 17px !important;
+	   margin-left: 70%;
+	    /* padding: 17px !important; */
+	}
+	.mobil-serv{
+		display: none;
+	}
+	.mobile-serv-1 {
+	    margin-left: 63%;
+	    display: block;
+	}
+	.expanded-but1t {
+	    padding: 5px;
+	     display: block;
+	    margin-top: 10px !important;
+	}
+	 
+	.actbut{
+		display: none;
+	}
+	.well.messages-in {
+	    /* position: absolute; */
+	    width: 86%;
+	    padding: 11px;
+	    border: none;
+	}
+	.well.bcktopversion i {
+	    padding: 5px;
+	    cursor: pointer;
+	    margin-top: 5%;
+	}
+	.well.send-msgcontent input {
+	    border-radius: 50px;
+	}
+	.imic{
+		padding: 3px;
+		border-radius: 50%;
+		color: white;
+		background-color:#3e97e4;
+	}
+	.well.send-msgcontent {
+		    position: fixed;
+		    bottom: -3%;
+		    background:transparent;
+		    border: none;
+		    width: 100%;
+		    border-radius: 1px;
+		}
+		.well.bcktopversion {
+		    padding: 6px;
+		    border-radius: 1px;
+		    background: #3e97e4;
+		    box-shadow: none;
+		    color: white;
+		    border: none;
+		    margin-bottom: 0%;
+		}
+		.well.frends-well {
+		    overflow-y: scroll;
+		    /* max-height: 510px; */
+		    position: fixed;
+		    height: 80%;
+		    width: 99%;
+		    border-radius: 1px;
+		    border: none;
+		    box-shadow: 0 2px 15px rgba(0,0,0,0.20);
+		    background: white;
+		}
+		.messg {
+		    position: fixed;
+		    bottom: 3%;
+		    right: 6%;
+		    z-index: 1;
+		    padding: 15px !important;
+		    box-shadow: 0px 2px 15px rgba(0,0,0,0.23);
+		    background-color: #3e97e4;
+		    border-radius: 50%;
+		    color: white;
+		    display: block;
+		}
+		.topversion h4 {
+		    font-weight: 900;
+		    padding: 6px;
+		    color: white;
+		}
+		.well.tabs-messages {
+		    background: rgba(0,0,0,0.19);
+		     padding: 0px 17px;
+   			 padding-top: 1%;
+		    margin-bottom: 0%;
+		    border: none;
+		    border-radius: 1px;
+		    margin-top: 3%;
+		    font-weight: 900;
+		    display: block;
+		    /* position: absolute; */
+		    /* width: 100%; */
+		    /* left: 0%; */
+		}
+		.well.tabs-messages p {
+		    margin: -1px;
+		    border-bottom: 5px solid transparent;
+		    padding-bottom: 7px;
+		}
+		.tabs-messages-active{
+			border-bottom: 5px  solid #FFC107;
+		}
+		.topversion {
+		    background-color: #3e97e4 !important;
+		    color: white;
+		    padding: 0px !important;
+    		padding-top: 6px !important;
+		    box-shadow: 0px 10px 15px rgba(0,0,0,0.23) !important;
+		}
+		.well.send-msgcontent i {
+		    padding: 5px;
+		    color: white;
+		}
+	.diffrent{
+		text-align: center !important;
+	}
+	.service button{
+		padding: 9px 2px !important;
+		margin-left: 0%;
+	}
+	.diffrent img{
+		display: none;
+	}
+	.unshown{
+		display: none;
+	}
+	.meet-thumb img{
+		min-height: 300px;
+		max-height: 300px;
+		width: 100%;
+	}
+	.float-img {
+	    position: absolute;
+	    left: inherit; 
+	    top: inherit; 
+	    max-width: 110px;
+	    height: 110px;
+	    border-radius: 50%;
+	    border: 4px solid white;
+	    background-color: transparent;
+	}
+
+	.features{
+		text-align: center;
+	}
+	.diffrent p{
+		text-align: center !important;	
+	}
+	/*prifile page*/
+	.sidenav {
+	    height: 100%;
+	    width: 0%;
+	    margin-top: 4%;
+	    position: fixed;
+	    z-index: 1;
+	    top: 0;
+	    left: 0;
+	    background-color: rgba(0, 0, 0, 0.89) !important;
+	    box-shadow: 0 2px 15px rgba(0,0,0,0.65);
+	    overflow: hidden !important;
+	    transition: 0.5s;
+	    padding-top: 15%;
+	}
+	#profile-view {
+	    display: inline-block;
+	    font-size: 15px;
+	    padding-right: 10px !important;
+	}
+	.navbar-brand {
+	    float: left;
+	    height: 50px;
+	    padding: 7px 15px;
+	    font-size: 18px;
+	    line-height: 20px;
+	}
+	.sidenav .closebtn {
+	    position: absolute;
+	    color: white;
+	    top: 4%;
+	    right: 25px;
+	    font-size: 36px;
+	    display: inline-block;
+	    margin-left: 50px;
+	}
+	#myBtn404 {
+	    position: fixed;
+	    bottom: 20px;
+	    right: 30px;
+	    z-index: 99;
+	    border: none;
+	    display: ;
+	    outline: none;
+	    background: #3e97e4;
+	    color: white;
+	    cursor: pointer;
+	    padding: 18px;
+	    transition: all .3s ease;
+	    border-radius: 50%;
+	    font-size: 10px !important;
+	    animation-name: none;
+	    animation: none;
+	    animation-duration: none;
+	    animation-iteration-count: none;
+	    animation-direction: 0;
+	}
+	#form-search{
+
+		display: none;
+	}
+	.mobile-btn{
+		display: block;
+	}
+	.artisanwelcome_text h1{
+		color: white;
+		padding-bottom: 1%;
+		animation-delay: 1s;
+		font-size: 2.2em;
+	}
+	.timeline-well button:hover {
+	    background-color:transparent !important;
+	    border-left: 2px solid transparent !important;
+	}
+	.timeline_sidebtn_active {
+	     background-color: transparent !important; 
+	    border-left: 2px solid transparent !important;
+	}
+	.client-card {
+	    background: #3e97e4;
+	    padding: 40px;
+	    width: 272px;
+	    height: 300px;
+	    box-shadow: 0 2px 15px rgba(0,0,0,0.45);
+	    color: white;
+	    padding-top: 12%;
+	    margin-bottom: 3%;
+	    border-radius: 1px;
+	    /* border: 2px solid #3e97e4; */
+	    border: 2px solid #3e97e4;
+	    transition: all 1s ease;
+	    text-decoration: none !important;
+	}
+	.client-show{
+		display: block;
+		padding: 9px 45px !important;
+	}
+	.client-unshow{
+		display: none;
+	}
+	 .collert1{
+            display: block;
+        }
+        .collert{
+            display: none;
+        }
+	#myBtn {
+	    position: fixed;
+	    bottom: 20px;
+	    right: 30px;
+	    z-index: 99;
+	    border: none;
+	    display: none;
+	    visibility: hidden !important;
+	    outline: none;
+	    background: #3e97e4;
+	    color: white;
+	    cursor: pointer;
+	    padding: 15px;
+	    box-shadow: 0 2px 15px rgba(0,0,0,0.65);
+	    border-radius: 50%;
+	    font-size: 10px !important;
+	}
+	#myBtn001 {
+	    position: fixed;
+	    bottom: 20px;
+	    right: 30px;
+	    z-index: 99;
+	    border: none;
+	    display: block;
+	    visibility: visible !important;
+	    outline: none;
+	    background: #3e97e4;
+	    color: white;
+	    cursor: pointer;
+	    padding: 15px;
+	    box-shadow: 0 2px 15px rgba(0,0,0,0.65);
+	    border-radius: 50%;
+	    font-size: 10px !important;
+	}
+}
+
+
+/*@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}*/

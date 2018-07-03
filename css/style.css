@@ -1,0 +1,373 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;	
+}
+body{
+	padding-right: 0px !important;
+}
+a,h1,h2,h3,h4,h5,h6,p,button,input[type="text"],input[type="password"],input[type="value"],b{
+	font-family: Montserrat !important;
+}
+/*@font-face{
+	font-family: realway;
+	src:url(../fonts/Quicksand-Light.ttf);
+}
+@font-face{
+	font-family: artisan;
+	src:url(../fonts/Muli-Light.ttf);
+}*/
+/* .main {
+    background-image: url(https://static.pexels.com/photos/401684/pexels-photo-401684.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.30),rgba(0,0,0,0.30)), url(../img/less.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    width: 100%;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.76);
+    background-size: cover;
+}
+.artisanmain {
+    background-image: url(https://static.pexels.com/photos/401684/pexels-photo-401684.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)), url(../img/ref1.jpg);
+    background-position: bottom;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 300px;
+    width: 100%;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.76);
+    background-size: cover;
+}
+.carpentermain {
+    background-image: url(https://static.pexels.com/photos/401684/pexels-photo-401684.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)), url(../img/bg1.jpg);
+    background-position: bottom;
+    background-attachment: initial;
+    background-repeat: no-repeat;
+    min-height: 300px;
+    width: 100%;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.76);
+    background-size: cover;
+}
+.geekmain {
+    background-image: url(https://static.pexels.com/photos/401684/pexels-photo-401684.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)), url(../img/laptop-mobile.jpg);
+    background-position: bottom;
+    background-attachment: initial;
+    background-repeat: no-repeat;
+    min-height: 300px;
+    width: 100%;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.76);
+    background-size: cover;
+} */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+
+
+
+.frends img {
+    height: 57px;
+    max-width: 57px;
+    padding: 2px;
+    border: 1px solid #2196F3;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+.well.search_version input {
+    box-shadow: none !important;
+    border-radius: 50px;
+    font-size: 13px;
+}
+.well.frends-well {
+    overflow-y: scroll;
+    /* max-height: 510px; */
+    position: fixed;
+    height: 90%;
+    width: 33.1%;
+        padding: 18px 20px 79px;
+    border-radius: 1px;
+    border: none;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.20);
+    background: white;
+}
+.frends {
+    /*border-bottom: 1px solid #d6d6d6;*/
+    padding-bottom: 1%;
+    margin-top: 1%;
+}
+.frends-well::-webkit-scrollbar {
+    width: 6px;
+}
+.frends-well::-webkit-scrollbar-track {
+    -webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.0); 
+    border-radius: 50px;
+}
+.back-msg {
+    padding: 0px 1px 0px;
+}
+.frends-well::-webkit-scrollbar-thumb {
+    border-radius: 50px;
+   /* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); */
+   background-color: #d6d6d6;
+    /*background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent);*/
+}
+ .msg-tex-on{
+    color: #c1c0c0;
+ }
+ .well.topversion img {
+    max-width: 58px;
+    height: 58px;
+}
+.well.bcktopversion img {
+    max-width: 58px;
+    height: 58px;
+    width: 58px;
+    border: 1px solid #2196F3;
+    padding: 3px;
+    margin-left: 10%;
+}
+
+i.material-icons.sender {
+    float: right;
+    background: #2196f3;
+    border-radius: 50%;
+    color: #fff;
+    padding: 10px !important;
+    font-size: 14px !important;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.43);
+}
+.media-body.meade p {
+    font-size: 12px;
+}
+.frends p {
+    font-size: 10px;
+}
+.media-body.meade {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+.media-body.meade h4 {
+    font-size: 14px;
+    margin-bottom: 2px;
+    font-weight: 700;
+}
+.well.send-msgcontent input {
+    box-shadow: none;
+    border-radius: 50px;
+    font-size: 13px;
+}
+.well.topversion i {
+    padding: 9px;
+    cursor: pointer;
+    margin-top: 5%;
+}
+
+.well.topversion {
+    padding: 9px;
+    border-radius: 1px;
+    background: white;
+    box-shadow: none;
+    margin-bottom: 0%;
+}
+.well.topversion h4 {
+    font-size: 16px;
+    color: #2196f3;
+    text-transform: lowercase;
+}
+
+.well.topversion i {
+    font-size: 18px;
+    float: right;
+}
+
+.well.topversion img {
+    height: 50px;
+    width: 50px;
+}
+.well.bcktopversion {
+    padding: 6px 0px;
+    border-radius: 1px;
+    background: white;
+    box-shadow: none;
+    border: none;
+    margin-bottom: 0%;
+}
+.grimps{
+    display: none;
+}
+
+
+.well.bcktopversion p {
+    font-size: 12px;
+}
+
+.well.bcktopversion h4 {
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 0%;
+}
+.well.search_version {
+    padding: 13px;
+    background: transparent;
+    border: none;
+        margin-bottom: 0%;
+}
+.well.msg_conten {
+    background:url(../img/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png);
+    /*max-height: 563px;*/
+    /* height: 500px; */
+    overflow-y: scroll;
+    border-radius: 1px;
+    position: fixed;
+    width: 66.6%;
+    max-height: 80%;
+    height: 80%;
+    border: none;
+    background-size: cover;
+    /*box-shadow: 0 2px 15px rgba(0,0,0,0.34);*/
+}
+
+.msg_conten::-webkit-scrollbar {
+    width: 7.4px;
+}
+.msg_conten::-webkit-scrollbar-track {
+    -webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.0); 
+    border-radius: 50px;
+}
+ 
+.msg_conten::-webkit-scrollbar-thumb {
+    border-radius: 50px;
+   /* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); */
+   background-color:#6b6b6b;
+    /*background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent);*/
+}
+.img-rounded {
+    border-radius: 28px;
+    margin-bottom: 3%;
+    /* border: 2px solid #d8d8d8; */
+}
+.msg-section{
+    overflow-x: hidden !important;
+}
+.well.send-msgcontent {
+    position: fixed;
+    bottom: -19px;
+    background: white;
+    border: none;
+    width: 66.6%;
+    border-radius: 1px;
+    height: 9%;
+    box-shadow: none !important;
+    padding: 13px 15px 0px 15px;
+}
+
+
+.well.bcktopversion i {
+    padding: 8px;
+    cursor: pointer;
+    font-size: 17px;
+    background: #2196F3;
+    color: #ffff;
+    margin-right: 2%;
+    /* float: right; */
+    margin-top: 12px;
+    border-radius: 50%;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.23);
+}
+.actbut {
+    float: right;
+    /* width: 52%; */
+    display: flex;
+}
+
+.well.send-msgcontent i {
+    padding: 6px;
+    cursor: pointer;
+    font-size: 20px;
+    /*border-right: 1px solid #ddd;*/
+}
+.well.msg_conten p {
+    font-size: 12px;
+}
+
+.well.msg_conten h5 {
+    font-size: 12px;
+}
+
+
+.img-rounded {
+    border-radius: 15px !important;
+    margin-bottom: 3%;
+    /* border: 2px solid #d8d8d8; */
+}
+
+
+.well.messages-in {
+    /* position: absolute; */
+    width: 42%;
+    padding: 3px 23px;
+    border-radius: 1px 15px 15px 15px;
+    border: none;
+}
+.well.messages-out {
+  
+    padding: 3px 23px;
+    margin-left: 33%;
+    width: 123%;
+   
+    padding-bottom: 2%;
+    /* float: right; */
+    border: none;
+    /* clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%); */
+    border-radius: 15px 1px 15px 15px;
+    background: #B9F38A;
+}
+.expanded-butt{
+        display: none;
+    }
+    .expanded-but1t{
+        display: none;
+    }
+    .messg{
+        display: none;
+    }
+    .pple_msg{
+        display: none !important;
+    }
+    i.material-icons.mobile-serv-1 {
+    margin-left: 63%;
+    display: none;
+}
+/*.mobile-serv-1 {
+    margin-left: 61%;
+      display: none;
+}*/
+.topversion h4 {
+            font-weight: 900;
+            padding: 6px;
+            color: black;
+        }
+        .tabs-messages-active{
+            border-bottom: 5px solid #B2A58F !important;
+        }
+        .tabs-messages{
+            display: none;
+        }
+         .well.tabs-messages {
+            transition: all .4s ease;
+        }
+        .well.tabs-messages p:hover {
+            border-bottom: 5px solid #FFf !important;
+        }
+        .collert1{
+            display: none;
+        }
+        .collert{
+            display: block;
+        }
